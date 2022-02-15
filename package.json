@@ -1,0 +1,23 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "```bash\r $ node app.js\r ```\r 在 local 80 port 就能夠看到 public 內的靜態資源了",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a131381568/express-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a131381568/express-example/issues"
+  },
+  "homepage": "https://github.com/a131381568/express-example#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
